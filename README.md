@@ -11,7 +11,7 @@
   Step 2 :  Install vagrant  (https://www.vagrantup.com)
 
   Step 3 :  Download and  Vagrant file  
-       git clone https://github.com/malyabee/vagrant-docker-swagger-editor.git 
+       git clone https://github.com/cloudmillet/vagrant-docker-swagger-editor.git 
 
   Step 4  : starting virtual machines 
 
