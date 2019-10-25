@@ -1,4 +1,4 @@
-## IaaC project : docker_lab  
+## IaaC project : swagger editor 
  A Vagrantfile to build a docker host and deploy swagger editor on docker. We can access swagger editor from browser 
  
 1. Docker Host  (centos/7)
